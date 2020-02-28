@@ -12,7 +12,7 @@ li.none-bg {background:none!important;}
     left: 37%; }
 
 .info ul {margin:0; padding:0; list-style:none;}
-.info ul li a {display:block; height:130px; margin:0 auto; color:#ff9c00; text-decoration:none; text-transform:uppercase;}
+.info ul li a {display:block; height:150px; margin:0 auto; color:#ff9c00; text-decoration:none; text-transform:uppercase;}
 .info ul li a:hover {color:#fff; background:#FFFFFF;}
 
 #cont {position: absolute;
@@ -44,3 +44,11 @@ color:#fff}
 #deus {position: absolute;
     top: 10%;
     left: 5%;}
+#jojo {position: absolute;
+    top: 0%;
+    left: 0%;
+z-index:-1}
+#durka {position: absolute;
+    top: 164%;
+    left: 0%;
+z-index:-1}
