@@ -42,7 +42,13 @@ color:#fff}
 .end1  {height:50px; width:700px; margin:0 auto; background: Red; padding:5px 0 0 0;}
 .endbg {height:1px; width:700px; margin:0 auto; background: Yellow; padding:5px 0 0 0;}
 #deus {position: absolute;
+    display:block;
+	margin:0 auto;
     top: 10%;
+    left: 5%;}
+.take {position: absolute;
+    text-align: center;
+    top: 100%;
     left: 5%;}
 #jojo {position: absolute;
     top: 0%;
