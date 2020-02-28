@@ -25,12 +25,12 @@ color:#fff}
 .head {text-align: center;}
 .gymn {color: Red}
 #souz {position: absolute;
-       top: 322%;
+       top: 313%;
        left: -9%;
 	   z-index:9999;
 	   }
 	   #souz2{position: absolute;
-       top: 322%;
+       top: 313%;
        left: 83%;
 	   z-index:9998;
 	   }
@@ -55,6 +55,6 @@ color:#fff}
     left: 0%;
 z-index:-1}
 #durka {position: absolute;
-    top: 164%;
+    top: 161%;
     left: 0%;
 z-index:-1}
